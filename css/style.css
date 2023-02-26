@@ -1,0 +1,60 @@
+/*common start*/
+.body{
+	margin: 0;
+
+	font-family: sans-serif ;
+	font-size: 16px;
+	font-weight:400 ;
+	color:#082051 ;
+}
+
+
+
+.container{
+	overflow: hidden}
+
+
+
+.logo{ float:left }
+
+.menu ul{
+	float :right
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 5px 15px;
+}
+.menu ul li a:hover{}
+/*common end*}
+
+/*banner start*/
+.banner{
+	background-image: url(../images/capture.jpg)
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center center;
+	min-height: 300px;} 
+
+
+
+
+
+
+
+
+.banner-content:{}
+.banner-content p :{ 
+	color: #082051;
+ }
+ .banner-content h1{ 
+ 	color:#082051;
+  }
+  .banner-content h2{
+
+  	color: #008AFF;
+  }
+  /*banner end*/
